@@ -1,6 +1,8 @@
 # esp8266 ALERT BOX
 Sistema de alerta visual y controlado remotamente.
 
+![pegatinas](./imagenes/photo_2020-11-02_23-56-09.jpg)
+
 ## Requisitos:
 - Servidor MQTT (Mosquitto, por ejemplo)
 - Servidor Node-RED (es opcional, pero ideal para controlar mensajes por MQTT)
