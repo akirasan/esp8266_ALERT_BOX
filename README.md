@@ -9,7 +9,7 @@ Para decorar la ALERT_BOX se puede imprimir un diseño, recortar y pegar:
 
 ![pegatinas](./imagenes/pegatinas.jpg)
 
-Un render de los ficheso STL:
+Un render de los ficheros STLs:
 
 ![render](./imagenes/render_caja.png)
 
