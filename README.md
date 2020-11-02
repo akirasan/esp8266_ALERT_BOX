@@ -7,7 +7,7 @@ Sistema de alerta visual y controlado remotamente.
 
 Para decorar la ALERT_BOX se puede imprimir un diseño, recortar y pegar:
 
-![pegatinas](./imagenes/pegatinas2.png)
+![pegatinas](./imagenes/pegatinas.jpg)
 
 Un render de los ficheso STL:
 
