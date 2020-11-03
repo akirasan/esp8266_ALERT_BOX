@@ -7,9 +7,17 @@ Sistema de alerta visual y controlado remotamente.
 - Servidor MQTT (Mosquitto, por ejemplo)
 - Servidor Node-RED (es opcional, pero ideal para controlar mensajes por MQTT)
 
+## Conexiones:
+
+![conexiones](./imagenes/conexiones_esp8266_matrix.png)
+
+## Decoración:
+
 Para decorar la ALERT_BOX se puede imprimir un diseño, recortar y pegar:
 
 ![pegatinas](./imagenes/pegatinas.jpg)
+
+## Diseño 3D
 
 Un render de los ficheros STLs:
 
