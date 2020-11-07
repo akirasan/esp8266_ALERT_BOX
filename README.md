@@ -1,5 +1,6 @@
 # esp8266 ALERT BOX
 Sistema de alerta visual y controlado remotamente.
+En mi blog puedes encontrar algo mas de info: https://akirasan.net/alert-box/
 
 ![pegatinas](./imagenes/photo_2020-11-02_23-56-09.jpg)
 
