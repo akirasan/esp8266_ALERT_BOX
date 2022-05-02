@@ -21,7 +21,7 @@ Para decorar la ALERT_BOX se puede imprimir un diseño, recortar y pegar:
 
 ## Diseño 3D
 
-Un render de los ficheros STLs:
+Un render de los ficheros STL's:
 
 ![render](./imagenes/render_caja.png)
 
